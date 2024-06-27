@@ -1,5 +1,5 @@
 ## :computer: About Me  
-![](https://komarev.com/ghpvc/?username=apiedev&color=brightgreen) [Website](https://apie.dev/)
+![](https://komarev.com/ghpvc/?username=apiedev&color=brightgreen) ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fapie.dev%2F)
 
 <div align="center" markdown=1>  
 
