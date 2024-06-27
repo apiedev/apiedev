@@ -1,5 +1,5 @@
 ## :computer: About Me  
-![](https://komarev.com/ghpvc/?username=apiedev&color=brightgreen) <object alt="Website" src="https://img.shields.io/badge/https%3A%2F%2Fapie.dev%2F">
+![](https://komarev.com/ghpvc/?username=apiedev&color=brightgreen) ![](https://img.shields.io/badge/Personal-Website-purple?link=https://apie.dev/&link=https://apie.dev/)
 
 <div align="center" markdown=1>  
 
